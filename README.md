@@ -1,2 +1,1 @@
-# SQL-constellations
-CS50 SQL final project
+# The final project for CS50 Introduction to Databases with SQL
