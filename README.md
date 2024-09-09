@@ -1,7 +1,5 @@
 # The Final Project
-
-for CS50's Introduction to Databases with SQL
-
+for CS50's Introduction to Databases with SQL <br>
 by Akbar Gafurov
 
 ## Description
@@ -10,4 +8,4 @@ For my final project in *CS50’s Introduction to Databases with SQL* course, I 
 
 The project is fully documented, with through explanations of the database structure and usage, alongisde a visual schema diagram created using *Mermaid.js*. This project not only showcases my proficiency in designing and optimizing SQL databases but also reflects my strong attention to detail and organization skills.
 
-To navigate to the project, click [here](/SQL-constellations/project). Enjoy and peace ✌🏻
+To navigate to the project, click [here](/SQL-constellations/tree/main/project). Enjoy and peace ✌🏻
